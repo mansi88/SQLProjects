@@ -1,7 +1,7 @@
 # Analysis
 - Percentage of vaccinated populations in all areas across world
 
-# SQLProjects
+# Data Source
 - COVID-19 Deaths data source : https://ourworldindata.org/covid-deaths.
 
 # Cleaning and manipulation
